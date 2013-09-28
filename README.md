@@ -1,4 +1,4 @@
-couchbase-scala-akka-load
-=========================
+couchbase-scala-load
+====================
 
-load test for couchbase with scala and akka
+load test for couchbase written in scala and akka actors
